@@ -1,0 +1,1 @@
+## Avora is redefining how we express ourselves in voice and identity. Whether it’s Morgan Freeman, Shrek, or your favorite anime character — you choose who you are
