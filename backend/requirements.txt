@@ -2,3 +2,4 @@ fastapi
 uvicorn[standard]
 pymongo
 python-socketio 
+pydantic==1.10.14
